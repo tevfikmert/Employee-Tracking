@@ -1,0 +1,215 @@
+c:\users\section-1\documents\visual studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\Yeni klasör\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+E:\Proje\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\ProjeBirleştir\mesaiTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\mesaiIzinPersonelTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\PC\Desktop\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\PC\Desktop\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Downloads\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\PC\Desktop\bitiyorrr\mesaiIzinPersonelMaasTamam\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\TMert\Documents\Visual Studio 2015\Projects\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\PROJE-SON\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+D:\Oğuz\ERP\Proje-PersonelTakibi\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+G:\Proje\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+G:\Proje\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+G:\Proje\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmAnasayfa.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmGirisEkrani.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinIslemleri.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.Properties.Resources.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\frmPersonelTakipSistemi.frmPersonelIslemleri.resources
+C:\Users\section-1\Desktop\sonn\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmIzinLimitGuncelle.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMaasIslemleri.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmMesaiIslemleri.resources
+C:\Users\section-1\Desktop\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.frmPrimIslemleri.resources
+C:\Users\section-1\Desktop\ERP6WinProjeler\Furkan-Tevfik-Oğuzhan\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\section-1\Desktop\ERP6WinProjeler\Furkan-Tevfik-Oğuzhan\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\section-1\Desktop\ERP6WinProjeler\Furkan-Tevfik-Oğuzhan\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
+C:\Users\FURKAN\Desktop\Projeler\Personel Takip Programı\wfPersonelTakipSistemi\wfPersonelTakipSistemi\bin\Debug\wfPersonelTakipSistemi.exe.config
+C:\Users\FURKAN\Desktop\Projeler\Personel Takip Programı\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.exe
+C:\Users\FURKAN\Desktop\Projeler\Personel Takip Programı\wfPersonelTakipSistemi\wfPersonelTakipSistemi\obj\Debug\wfPersonelTakipSistemi.pdb
